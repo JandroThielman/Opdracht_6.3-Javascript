@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(39, 7, 39);
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 20px;
+}
+
+h3{
+    color: gold;
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 10px;
+}
+
+.tenor-gif-embed{
+    margin-left: 34.5vw;
+    visibility: hidden;
+}
